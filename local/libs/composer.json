@@ -1,0 +1,8 @@
+{
+  "autoload": {
+    "psr-4" : {
+      "Test\\": "/srv/sites/lg4.mylgc.ru/www/local/libs/vendor/Test"
+    },
+    "optimize-autoloader": true
+  }
+}
